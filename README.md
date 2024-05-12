@@ -1,6 +1,6 @@
-<h1 align="center">rnvim</h1<h1 align="center">Nvim Configuration</h1>
+<h1 align="center">Nvim Configuration</h1>
 
-Neovim configuration based off MrRoiz.
+![image](https://i.imgur.com/xbwyE5a.png)
 
 ## Dependencies 🧩
 - [Neovim](https://github.com/neovim/neovim) v0.9.1 tested
